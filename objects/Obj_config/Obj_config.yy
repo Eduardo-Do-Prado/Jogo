@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Dialogo",
-    "path": "folders/Cenas/Dialogo.yy",
+    "name": "obj_dialogo",
+    "path": "folders/Objetos/obj_dialogo.yy",
   },
   "parentObjectId": null,
   "persistent": false,
