@@ -23,6 +23,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"obj_gameplay","folderPath":"folders/Objetos/obj_gameplay.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"obj_loading","folderPath":"folders/Objetos/obj_loading.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"obj_menu","folderPath":"folders/Objetos/obj_menu.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"obj_npc","folderPath":"folders/Objetos/obj_npc.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particle Systems","folderPath":"folders/Particle Systems.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Scripts","folderPath":"folders/Scripts.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sequências","folderPath":"folders/Sequências.yy",},
@@ -101,6 +102,8 @@
     {"id":{"name":"spr_retangulos_azuis","path":"sprites/spr_retangulos_azuis/spr_retangulos_azuis.yy",},},
     {"id":{"name":"spr_Loading03","path":"sprites/spr_Loading03/spr_Loading03.yy",},},
     {"id":{"name":"spr_guitarra","path":"sprites/spr_guitarra/spr_guitarra.yy",},},
+    {"id":{"name":"obj_res","path":"objects/obj_res/obj_res.yy",},},
+    {"id":{"name":"obj_chef","path":"objects/obj_chef/obj_chef.yy",},},
     {"id":{"name":"Obj_menu08","path":"objects/Obj_menu08/Obj_menu08.yy",},},
     {"id":{"name":"spr_menu_14","path":"sprites/spr_menu_14/spr_menu_14.yy",},},
     {"id":{"name":"spr_menu_20","path":"sprites/spr_menu_20/spr_menu_20.yy",},},
@@ -153,9 +156,9 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"roomId":{"name":"rm_gs","path":"rooms/rm_gs/rm_gs.yy",},},
+    {"roomId":{"name":"rm_area_externa","path":"rooms/rm_area_externa/rm_area_externa.yy",},},
     {"roomId":{"name":"rm_loading","path":"rooms/rm_loading/rm_loading.yy",},},
     {"roomId":{"name":"rm_gameplay","path":"rooms/rm_gameplay/rm_gameplay.yy",},},
-    {"roomId":{"name":"rm_area_externa","path":"rooms/rm_area_externa/rm_area_externa.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
