@@ -1,0 +1,1 @@
+instance_create_depth(480,-32,10,obj_bola_2)
